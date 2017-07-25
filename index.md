@@ -1,5 +1,5 @@
-## 欢迎光临 skawu 的个人网站
+## Murphy
 
-你猜→ [这里](https://user.qzone.qq.com/1240752980?ptlang=2052&source=aiostar)有什么？？？？
+[天气预报](https://user.qzone.qq.com/1240752980?ptlang=2052&source=aiostar)
 
-[这里](https://www.baidu.com)有你想要的东西！！！！
+[百事通](https://www.baidu.com)
