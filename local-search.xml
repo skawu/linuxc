@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>常用网络服务查询</title>
+    <link href="/2023/04/03/%E7%BD%91%E7%BB%9C%E7%AB%AF%E5%8F%A3%E6%9F%A5%E8%AF%A2/"/>
+    <url>/2023/04/03/%E7%BD%91%E7%BB%9C%E7%AB%AF%E5%8F%A3%E6%9F%A5%E8%AF%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一、Linux"><a href="#一、Linux" class="headerlink" title="一、Linux"></a>一、Linux</h1><h2 id="1-1-服务端口可用性探测"><a href="#1-1-服务端口可用性探测" class="headerlink" title="1.1 服务端口可用性探测"></a>1.1 服务端口可用性探测</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">-n 直接使用 IP 地址而非主机名称（禁用 DNS 反查）</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">-T 通过 TCP 探测</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">-p 探测目标端口号</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Host 目标服务器域名或 IP</span></span><br><span class="line">traceroute [-n] -T -p &lt;目标端口号&gt; Host</span><br></pre></td></tr></table></figure><h1 id="二、Windows"><a href="#二、Windows" class="headerlink" title="二、Windows"></a>二、Windows</h1><h2 id="2-1-路由追踪"><a href="#2-1-路由追踪" class="headerlink" title="2.1 路由追踪"></a>2.1 路由追踪</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tracert IP</span><br></pre></td></tr></table></figure><h2 id="2-2-显示IP主机名或域名"><a href="#2-2-显示IP主机名或域名" class="headerlink" title="2.2 显示IP主机名或域名"></a>2.2 显示IP主机名或域名</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nbtstat -A IP</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>毛旭东的博客</title>
+    <link href="/2023/04/03/hello-world/"/>
+    <url>/2023/04/03/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>欢迎来到<strong>毛旭东的博客</strong></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
